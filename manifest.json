@@ -1,0 +1,17 @@
+{
+    "name": "My Chegg automator",
+    "version": "1.0",
+    "description": "First Extension!",
+    
+    
+    "manifest_version": 2,
+    "browser_action" : {
+      "default_icon" : "skip.png",
+    	"default_popup" : "popup.html"
+    },
+     "permissions": [
+    "<all_urls>"
+  ]
+     
+
+  }
